@@ -131,3 +131,6 @@ Why do we have classes in CSS?
 
 ## Practice
 Students can make a webpage and access/manipulate the attribute, css style property, and classes of a selected element.
+
+## Source
+[02_details lesson](https://github.com/hunter-teacher-cert/currdev_unit_plan-jsdom/blob/main/lessons/02_details.md)
