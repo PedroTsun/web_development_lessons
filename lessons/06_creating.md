@@ -1,4 +1,4 @@
-# Lesson 03: Creating
+# Lesson 06: Creating
 
 
 ## Context

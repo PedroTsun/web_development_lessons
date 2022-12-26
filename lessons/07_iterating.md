@@ -1,4 +1,4 @@
-# Lesson 04: Iterating
+# Lesson 07: Iterating
 
 
 ## Context
