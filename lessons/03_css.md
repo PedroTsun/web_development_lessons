@@ -68,5 +68,5 @@ Imagine you are to change the color of all heading h1 in hundreds of webpages.
 </html>
 ```
 
-### Practice
+## Practice
 Make a webpage with mulitple paragraphs. Use CSS to control the style property of many elements from a single place in the head section of your html file.
